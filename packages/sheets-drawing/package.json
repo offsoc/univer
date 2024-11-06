@@ -67,7 +67,7 @@
         "@univerjs/shared": "workspace:*",
         "@univerjs/sheets": "workspace:*",
         "typescript": "^5.5.4",
-        "vite": "^5.4.2",
+        "vite": "^5.4.6",
         "vitest": "^2.0.5"
     },
     "univerSpace": {
